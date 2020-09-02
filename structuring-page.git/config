@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://1febfa15-2601-4be6-be4e-29df39b4e4ba@api.glitch.com/git/structuring-page
